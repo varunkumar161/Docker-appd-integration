@@ -1,0 +1,735 @@
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:17,070  INFO - Matching class name org/jcp/xml/dsig/internal/dom/XMLDSigRI [ClassLoader: Bootstrap] : Class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:17,070  INFO - Matching class name org/jcp/xml/dsig/internal/dom/XMLDSigRI
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:17,071  INFO -  BCI for class org/jcp/xml/dsig/internal/dom/XMLDSigRI has been deferred because of potential deadlock
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:17,073  INFO - Matching class name org/jcp/xml/dsig/internal/dom/XMLDSigRI$1 [ClassLoader: Bootstrap] : Class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:17,073  INFO - Matching class name org/jcp/xml/dsig/internal/dom/XMLDSigRI$1
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:17,074  INFO -  BCI for class org/jcp/xml/dsig/internal/dom/XMLDSigRI$1 has been deferred because of potential deadlock
+[AD Thread Pool-Global1] 28 Apr 2019 07:10:22,090  INFO - Matching class name org/jcp/xml/dsig/internal/dom/XMLDSigRI$1 [ClassLoader: Bootstrap] : Class match found.
+[AD Thread Pool-Global1] 28 Apr 2019 07:10:22,091  INFO - 	Matching runtime class. : No class match found.
+[AD Thread Pool-Global1] 28 Apr 2019 07:10:22,091  INFO - Matching class name org/jcp/xml/dsig/internal/dom/XMLDSigRI$1
+[AD Thread Pool-Global1] 28 Apr 2019 07:10:22,092  INFO - Matching class name org/jcp/xml/dsig/internal/dom/XMLDSigRI [ClassLoader: Bootstrap] : Class match found.
+[AD Thread Pool-Global1] 28 Apr 2019 07:10:22,093  INFO - 	Matching runtime class. : No class match found.
+[AD Thread Pool-Global1] 28 Apr 2019 07:10:22,093  INFO - Matching class name org/jcp/xml/dsig/internal/dom/XMLDSigRI
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,673  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='javax/faces/webapp/FacesServlet', type=EQUALS, pattern='javax/faces/webapp/FacesServlet'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,676  INFO - Excluding custom classes	Custom Exclude Definition-SM{ex_type=EQUALS, ex_pattern='org/apache/catalina/servlets/DefaultServlet', type=EQUALS, pattern='org/apache/catalina/servlets/DefaultServlet'}
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,676  INFO - Excluding custom classes	Custom Exclude Definition-SM{ex_type=EQUALS, ex_pattern='org/apache/jasper/servlet/JspServlet', type=EQUALS, pattern='org/apache/jasper/servlet/JspServlet'}
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,678  INFO - Excluding custom classes	Custom Exclude Definition-SM{ex_type=EQUALS, ex_pattern='weblogic/servlet/FileServlet', type=EQUALS, pattern='weblogic/servlet/FileServlet'}
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,678  INFO - Excluding custom classes	Custom Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/google/gwt/user/server/rpc/AbstractRemoteServiceServlet', type=EQUALS, pattern='com/google/gwt/user/server/rpc/AbstractRemoteServiceServlet'}
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,696  INFO - Including system class [System Exclude Definition-SM{ex_type=CONTAINS, ex_pattern='java/util/concurrent/ForkJoin', type=CONTAINS, pattern='java/util/concurrent/ForkJoin'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,698  INFO - Including system class [System Exclude Definition-SM{ex_type=CONTAINS, ex_pattern='java/util/concurrent/CompletableFuture', type=CONTAINS, pattern='java/util/concurrent/CompletableFuture'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,700  INFO - Including system class [System Exclude Definition-SM{ex_type=CONTAINS, ex_pattern='java/util/concurrent/RecursiveTask', type=CONTAINS, pattern='java/util/concurrent/RecursiveTask'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,701  INFO - Including system class [System Exclude Definition-SM{ex_type=CONTAINS, ex_pattern='java/util/concurrent/CountedCompleter', type=CONTAINS, pattern='java/util/concurrent/CountedCompleter'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,740  INFO - Including system class [javax/servlet/http/Cookie [ClassLoader]org.springframework.boot.loader.LaunchedURLClassLoader[hashcode]1165897474]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,818  INFO - Including system class [javax/servlet/http/HttpServlet [ClassLoader]org.springframework.boot.loader.LaunchedURLClassLoader[hashcode]1165897474]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,896  INFO - Including system class [javax/xml/parsers/DocumentBuilder [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,902  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/PlainOldClass [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,906  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/ImplementingInterface [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,908  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/IBCIEngineIntf [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,908  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/ExtendingSuperClass [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,912  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/ASuperClass [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,925  INFO - Including system class [sun/nio/ch/ServerSocketChannelImpl [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,935  INFO - Including system class [java/util/concurrent/ThreadPoolExecutor$Worker [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,935  INFO - Including system class [java/net/ServerSocket [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,938  INFO - Including system class [java/util/logging/Logger [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,951  INFO - Including system class [java/net/Socket [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,967  INFO - Including system class [java/util/concurrent/Executors$RunnableAdapter [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,971  INFO - Including system class [java/lang/ApplicationShutdownHooks [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,975  INFO - Including system class [java/util/Hashtable [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,999  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/sun/xml/ws/client/sei/SEIStub', type=EQUALS, pattern='com/sun/xml/ws/client/sei/SEIStub'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,999  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/sun/xml/internal/ws/client/sei/SEIStub', type=EQUALS, pattern='com/sun/xml/internal/ws/client/sei/SEIStub'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,999  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/sun/xml/ws/server/InvokerTube$2', type=EQUALS, pattern='com/sun/xml/ws/server/InvokerTube$2'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:25,999  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/sun/xml/internal/ws/server/InvokerTube$2', type=EQUALS, pattern='com/sun/xml/internal/ws/server/InvokerTube$2'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,008  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/sun/xml/ws/transport/http/servlet/WSServlet', type=EQUALS, pattern='com/sun/xml/ws/transport/http/servlet/WSServlet'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,008  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/sun/xml/ws/transport/http/servlet/WSSpringServlet', type=EQUALS, pattern='com/sun/xml/ws/transport/http/servlet/WSSpringServlet'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,116  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='javax/faces/webapp/FacesServlet', type=EQUALS, pattern='javax/faces/webapp/FacesServlet'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,134  INFO - Excluding custom classes	Custom Exclude Definition-SM{ex_type=EQUALS, ex_pattern='org/apache/catalina/servlets/DefaultServlet', type=EQUALS, pattern='org/apache/catalina/servlets/DefaultServlet'}
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,134  INFO - Excluding custom classes	Custom Exclude Definition-SM{ex_type=EQUALS, ex_pattern='org/apache/jasper/servlet/JspServlet', type=EQUALS, pattern='org/apache/jasper/servlet/JspServlet'}
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,134  INFO - Excluding custom classes	Custom Exclude Definition-SM{ex_type=EQUALS, ex_pattern='weblogic/servlet/FileServlet', type=EQUALS, pattern='weblogic/servlet/FileServlet'}
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,134  INFO - Excluding custom classes	Custom Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/google/gwt/user/server/rpc/AbstractRemoteServiceServlet', type=EQUALS, pattern='com/google/gwt/user/server/rpc/AbstractRemoteServiceServlet'}
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,145  INFO - Including system class [System Exclude Definition-SM{ex_type=CONTAINS, ex_pattern='java/util/concurrent/ForkJoin', type=CONTAINS, pattern='java/util/concurrent/ForkJoin'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,146  INFO - Including system class [System Exclude Definition-SM{ex_type=CONTAINS, ex_pattern='java/util/concurrent/CompletableFuture', type=CONTAINS, pattern='java/util/concurrent/CompletableFuture'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,146  INFO - Including system class [System Exclude Definition-SM{ex_type=CONTAINS, ex_pattern='java/util/concurrent/RecursiveTask', type=CONTAINS, pattern='java/util/concurrent/RecursiveTask'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,146  INFO - Including system class [System Exclude Definition-SM{ex_type=CONTAINS, ex_pattern='java/util/concurrent/CountedCompleter', type=CONTAINS, pattern='java/util/concurrent/CountedCompleter'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,172  INFO - Including system class [javax/servlet/http/Cookie [ClassLoader]org.springframework.boot.loader.LaunchedURLClassLoader[hashcode]1165897474]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,182  INFO - Including system class [javax/servlet/http/HttpServlet [ClassLoader]org.springframework.boot.loader.LaunchedURLClassLoader[hashcode]1165897474]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,215  INFO - Including system class [javax/xml/parsers/DocumentBuilder [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,219  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/PlainOldClass [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,219  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/ImplementingInterface [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,219  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/IBCIEngineIntf [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,219  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/ExtendingSuperClass [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,219  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/ASuperClass [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,224  INFO - Including system class [sun/nio/ch/ServerSocketChannelImpl [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,224  INFO - Including system class [java/util/concurrent/ThreadPoolExecutor$Worker [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,224  INFO - Including system class [java/net/ServerSocket [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,255  INFO - Including system class [java/util/logging/Logger [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,258  INFO - Including system class [java/net/Socket [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,259  INFO - Including system class [java/util/concurrent/Executors$RunnableAdapter [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,261  INFO - Including system class [java/lang/ApplicationShutdownHooks [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,263  INFO - Including system class [java/util/Hashtable [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,277  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/sun/xml/ws/client/sei/SEIStub', type=EQUALS, pattern='com/sun/xml/ws/client/sei/SEIStub'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,277  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/sun/xml/internal/ws/client/sei/SEIStub', type=EQUALS, pattern='com/sun/xml/internal/ws/client/sei/SEIStub'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,277  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/sun/xml/ws/server/InvokerTube$2', type=EQUALS, pattern='com/sun/xml/ws/server/InvokerTube$2'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,277  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/sun/xml/internal/ws/server/InvokerTube$2', type=EQUALS, pattern='com/sun/xml/internal/ws/server/InvokerTube$2'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,277  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/sun/xml/ws/transport/http/servlet/WSServlet', type=EQUALS, pattern='com/sun/xml/ws/transport/http/servlet/WSServlet'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,277  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/sun/xml/ws/transport/http/servlet/WSSpringServlet', type=EQUALS, pattern='com/sun/xml/ws/transport/http/servlet/WSSpringServlet'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,297  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='javax/faces/webapp/FacesServlet', type=EQUALS, pattern='javax/faces/webapp/FacesServlet'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,298  INFO - Excluding custom classes	Custom Exclude Definition-SM{ex_type=EQUALS, ex_pattern='org/apache/catalina/servlets/DefaultServlet', type=EQUALS, pattern='org/apache/catalina/servlets/DefaultServlet'}
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,298  INFO - Excluding custom classes	Custom Exclude Definition-SM{ex_type=EQUALS, ex_pattern='org/apache/jasper/servlet/JspServlet', type=EQUALS, pattern='org/apache/jasper/servlet/JspServlet'}
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,298  INFO - Excluding custom classes	Custom Exclude Definition-SM{ex_type=EQUALS, ex_pattern='weblogic/servlet/FileServlet', type=EQUALS, pattern='weblogic/servlet/FileServlet'}
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,298  INFO - Excluding custom classes	Custom Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/google/gwt/user/server/rpc/AbstractRemoteServiceServlet', type=EQUALS, pattern='com/google/gwt/user/server/rpc/AbstractRemoteServiceServlet'}
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,301  INFO - Including system class [System Exclude Definition-SM{ex_type=CONTAINS, ex_pattern='java/util/concurrent/ForkJoin', type=CONTAINS, pattern='java/util/concurrent/ForkJoin'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,301  INFO - Including system class [System Exclude Definition-SM{ex_type=CONTAINS, ex_pattern='java/util/concurrent/CompletableFuture', type=CONTAINS, pattern='java/util/concurrent/CompletableFuture'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,301  INFO - Including system class [System Exclude Definition-SM{ex_type=CONTAINS, ex_pattern='java/util/concurrent/RecursiveTask', type=CONTAINS, pattern='java/util/concurrent/RecursiveTask'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,301  INFO - Including system class [System Exclude Definition-SM{ex_type=CONTAINS, ex_pattern='java/util/concurrent/CountedCompleter', type=CONTAINS, pattern='java/util/concurrent/CountedCompleter'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,334  INFO - Including system class [javax/servlet/http/Cookie [ClassLoader]org.springframework.boot.loader.LaunchedURLClassLoader[hashcode]1165897474]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,383  INFO - Including system class [javax/servlet/http/HttpServlet [ClassLoader]org.springframework.boot.loader.LaunchedURLClassLoader[hashcode]1165897474]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,403  INFO - Including system class [javax/xml/parsers/DocumentBuilder [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,406  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/PlainOldClass [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,406  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/ImplementingInterface [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,406  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/IBCIEngineIntf [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,406  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/ExtendingSuperClass [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,406  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/ASuperClass [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,411  INFO - Including system class [sun/nio/ch/ServerSocketChannelImpl [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,411  INFO - Including system class [java/util/concurrent/ThreadPoolExecutor$Worker [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,411  INFO - Including system class [java/net/ServerSocket [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,416  INFO - Including system class [java/util/logging/Logger [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,419  INFO - Including system class [java/net/Socket [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,422  INFO - Including system class [java/util/concurrent/Executors$RunnableAdapter [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,423  INFO - Including system class [java/lang/ApplicationShutdownHooks [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,426  INFO - Including system class [java/util/Hashtable [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,437  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/sun/xml/ws/client/sei/SEIStub', type=EQUALS, pattern='com/sun/xml/ws/client/sei/SEIStub'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,437  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/sun/xml/internal/ws/client/sei/SEIStub', type=EQUALS, pattern='com/sun/xml/internal/ws/client/sei/SEIStub'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,437  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/sun/xml/ws/server/InvokerTube$2', type=EQUALS, pattern='com/sun/xml/ws/server/InvokerTube$2'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,437  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/sun/xml/internal/ws/server/InvokerTube$2', type=EQUALS, pattern='com/sun/xml/internal/ws/server/InvokerTube$2'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,437  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/sun/xml/ws/transport/http/servlet/WSServlet', type=EQUALS, pattern='com/sun/xml/ws/transport/http/servlet/WSServlet'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:10:26,437  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='com/sun/xml/ws/transport/http/servlet/WSSpringServlet', type=EQUALS, pattern='com/sun/xml/ws/transport/http/servlet/WSSpringServlet'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:21,833  INFO - Including system class [javax/servlet/http/Cookie [ClassLoader]org.springframework.boot.loader.LaunchedURLClassLoader[hashcode]1165897474]
+[http-nio-8080-exec-4] 28 Apr 2019 07:12:36,236  INFO - Matching class name org/slf4j/Marker [ClassLoader]org.springframework.boot.loader.LaunchedURLClassLoader[hashcode]1165897474 : Class match found.
+[http-nio-8080-exec-4] 28 Apr 2019 07:12:36,236  INFO - Matching class name org/slf4j/Marker
+[http-nio-8080-exec-4] 28 Apr 2019 07:12:36,237  INFO - 	Matching class bytecode. : No class match found.
+[http-nio-8080-exec-4] 28 Apr 2019 07:12:36,237  INFO - 	Matching class bytecode. : No class match found.
+[AD Thread Pool-Global1] 28 Apr 2019 07:12:42,354  INFO - Matching class name org/springframework/cache/Cache [ClassLoader]org.springframework.boot.loader.LaunchedURLClassLoader[hashcode]1165897474 : Class match found.
+[AD Thread Pool-Global1] 28 Apr 2019 07:12:42,354  INFO - Matching class name org/springframework/cache/Cache
+[AD Thread Pool-Global1] 28 Apr 2019 07:12:42,354  INFO - 	Matching class bytecode. : No class match found.
+[AD Thread Pool-Global1] 28 Apr 2019 07:12:42,354  INFO - 	Matching class bytecode. : No class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,424  INFO - Matching class name org/springframework/web/servlet/FrameworkServlet [ClassLoader]org.springframework.boot.loader.LaunchedURLClassLoader[hashcode]1165897474 : Class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,425  INFO - 	Matching runtime class. : Class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,425  INFO - Matching class name org/springframework/web/servlet/FrameworkServlet
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,426  INFO - 	Matching class bytecode. : Class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,429  INFO - 	Matching method <init> (()V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,431  INFO - 	Matching method <init> ((Lorg/springframework/web/context/WebApplicationContext;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,432  INFO - 	Matching method setContextAttribute ((Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,432  INFO - 	Matching method getContextAttribute (()Ljava/lang/String;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,433  INFO - 	Matching method setContextClass ((Ljava/lang/Class;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,433  INFO - 	Matching method getContextClass (()Ljava/lang/Class;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,433  INFO - 	Matching method setContextId ((Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,433  INFO - 	Matching method getContextId (()Ljava/lang/String;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,433  INFO - 	Matching method setNamespace ((Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,433  INFO - 	Matching method getNamespace (()Ljava/lang/String;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,435  INFO - 	Matching method setContextConfigLocation ((Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,435  INFO - 	Matching method getContextConfigLocation (()Ljava/lang/String;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,436  INFO - 	Matching method setContextInitializers (([Lorg/springframework/context/ApplicationContextInitializer;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,437  INFO - 	Matching method setContextInitializerClasses ((Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,438  INFO - 	Matching method setPublishContext ((Z)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,438  INFO - 	Matching method setPublishEvents ((Z)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,438  INFO - 	Matching method setThreadContextInheritable ((Z)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,438  INFO - 	Matching method setDispatchOptionsRequest ((Z)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,439  INFO - 	Matching method setDispatchTraceRequest ((Z)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,439  INFO - 	Matching method setEnableLoggingRequestDetails ((Z)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,439  INFO - 	Matching method isEnableLoggingRequestDetails (()Z)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,439  INFO - 	Matching method setApplicationContext ((Lorg/springframework/context/ApplicationContext;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,440  INFO - 	Matching method initServletBean (()V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,451  INFO - 	Matching method initWebApplicationContext (()Lorg/springframework/web/context/WebApplicationContext;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,452  INFO - 	Matching method findWebApplicationContext (()Lorg/springframework/web/context/WebApplicationContext;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,452  INFO - 	Matching method createWebApplicationContext ((Lorg/springframework/context/ApplicationContext;)Lorg/springframework/web/context/WebApplicationContext;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,453  INFO - 	Matching method configureAndRefreshWebApplicationContext ((Lorg/springframework/web/context/ConfigurableWebApplicationContext;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,457  INFO - 	Matching method createWebApplicationContext ((Lorg/springframework/web/context/WebApplicationContext;)Lorg/springframework/web/context/WebApplicationContext;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,458  INFO - 	Matching method postProcessWebApplicationContext ((Lorg/springframework/web/context/ConfigurableWebApplicationContext;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,458  INFO - 	Matching method applyInitializers ((Lorg/springframework/context/ConfigurableApplicationContext;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,460  INFO - 	Matching method loadInitializer ((Ljava/lang/String;Lorg/springframework/context/ConfigurableApplicationContext;)Lorg/springframework/context/ApplicationContextInitializer;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,461  INFO - 	Matching method getServletContextAttributeName (()Ljava/lang/String;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,461  INFO - 	Matching method getWebApplicationContext (()Lorg/springframework/web/context/WebApplicationContext;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,462  INFO - 	Matching method initFrameworkServlet (()V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,462  INFO - 	Matching method refresh (()V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,463  INFO - 	Matching method onApplicationEvent ((Lorg/springframework/context/event/ContextRefreshedEvent;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,465  INFO - 	Matching method onRefresh ((Lorg/springframework/context/ApplicationContext;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,466  INFO - 	Matching method destroy (()V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,466  INFO - 	Matching method service ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,467  INFO - 		Applying method interceptor async2.Servlet3AsyncDispatchConsumerInterceptor at org/springframework/web/servlet/FrameworkServlet.service ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V) id:74
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,467  INFO - 		Applying method interceptor entry.Servlet at org/springframework/web/servlet/FrameworkServlet.service ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V) id:75
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,469  INFO - 	Matching method doGet ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,470  INFO - 		Applying method interceptor async2.Servlet3AsyncDispatchConsumerInterceptor at org/springframework/web/servlet/FrameworkServlet.doGet ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V) id:76
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,470  INFO - 		Applying method interceptor entry.Servlet at org/springframework/web/servlet/FrameworkServlet.doGet ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V) id:77
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,472  INFO - 	Matching method doPost ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,472  INFO - 		Applying method interceptor async2.Servlet3AsyncDispatchConsumerInterceptor at org/springframework/web/servlet/FrameworkServlet.doPost ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V) id:78
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,473  INFO - 		Applying method interceptor entry.Servlet at org/springframework/web/servlet/FrameworkServlet.doPost ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V) id:79
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,474  INFO - 	Matching method doPut ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,474  INFO - 		Applying method interceptor async2.Servlet3AsyncDispatchConsumerInterceptor at org/springframework/web/servlet/FrameworkServlet.doPut ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V) id:80
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,474  INFO - 		Applying method interceptor entry.Servlet at org/springframework/web/servlet/FrameworkServlet.doPut ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V) id:81
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,475  INFO - 	Matching method doDelete ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,475  INFO - 		Applying method interceptor async2.Servlet3AsyncDispatchConsumerInterceptor at org/springframework/web/servlet/FrameworkServlet.doDelete ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V) id:82
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,475  INFO - 		Applying method interceptor entry.Servlet at org/springframework/web/servlet/FrameworkServlet.doDelete ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V) id:83
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,476  INFO - 	Matching method doOptions ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,477  INFO - 	Matching method doTrace ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,477  INFO - 	Matching method processRequest ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,478  INFO - 	Matching method buildLocaleContext ((Ljavax/servlet/http/HttpServletRequest;)Lorg/springframework/context/i18n/LocaleContext;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,478  INFO - 	Matching method buildRequestAttributes ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;Lorg/springframework/web/context/request/RequestAttributes;)Lorg/springframework/web/context/request/ServletRequestAttributes;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,479  INFO - 	Matching method initContextHolders ((Ljavax/servlet/http/HttpServletRequest;Lorg/springframework/context/i18n/LocaleContext;Lorg/springframework/web/context/request/RequestAttributes;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,480  INFO - 	Matching method resetContextHolders ((Ljavax/servlet/http/HttpServletRequest;Lorg/springframework/context/i18n/LocaleContext;Lorg/springframework/web/context/request/RequestAttributes;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,481  INFO - 	Matching method logResult ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;Ljava/lang/Throwable;Lorg/springframework/web/context/request/async/WebAsyncManager;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,495  INFO - 	Matching method publishRequestHandledEvent ((Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;JLjava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,496  INFO - 	Matching method getUsernameForRequest ((Ljavax/servlet/http/HttpServletRequest;)Ljava/lang/String;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,500  INFO - Method service with signature (Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V in class org/springframework/web/servlet/FrameworkServlet has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,501  INFO - Method doGet with signature (Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V in class org/springframework/web/servlet/FrameworkServlet has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,510  INFO - Method doPost with signature (Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V in class org/springframework/web/servlet/FrameworkServlet has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,511  INFO - Method doPut with signature (Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V in class org/springframework/web/servlet/FrameworkServlet has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,512  INFO - Method doDelete with signature (Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)V in class org/springframework/web/servlet/FrameworkServlet has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,571  INFO - Including system class [javax/servlet/http/HttpServlet [ClassLoader]org.springframework.boot.loader.LaunchedURLClassLoader[hashcode]1165897474]
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,576  INFO - Matching class name com/fasterxml/jackson/databind/annotation/JacksonStdImpl [ClassLoader]org.springframework.boot.loader.LaunchedURLClassLoader[hashcode]1165897474 : Class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,576  INFO - Matching class name com/fasterxml/jackson/databind/annotation/JacksonStdImpl
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,577  INFO - 	Matching class bytecode. : No class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,582  INFO - Matching class name com/fasterxml/jackson/annotation/JacksonAnnotation [ClassLoader]org.springframework.boot.loader.LaunchedURLClassLoader[hashcode]1165897474 : Class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,583  INFO - Matching class name com/fasterxml/jackson/annotation/JacksonAnnotation
+[AD Thread Pool-Global0] 28 Apr 2019 07:12:47,583  INFO - 	Matching class bytecode. : No class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:08,149  INFO - Matching class name org/apache/logging/log4j/status/StatusListener [ClassLoader]org.springframework.boot.loader.LaunchedURLClassLoader[hashcode]1165897474 : Class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:08,149  INFO - Matching class name org/apache/logging/log4j/status/StatusListener
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:08,150  INFO - 	Matching class bytecode. : No class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:08,150  INFO - 	Matching class bytecode. : No class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:08,161  INFO - Matching class name org/apache/logging/log4j/util/MessageSupplier [ClassLoader]org.springframework.boot.loader.LaunchedURLClassLoader[hashcode]1165897474 : Class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:08,161  INFO - Matching class name org/apache/logging/log4j/util/MessageSupplier
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:08,161  INFO - 	Matching class bytecode. : No class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:08,161  INFO - 	Matching class bytecode. : No class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:08,166  INFO - Matching class name org/apache/logging/log4j/util/Supplier [ClassLoader]org.springframework.boot.loader.LaunchedURLClassLoader[hashcode]1165897474 : Class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:08,166  INFO - Matching class name org/apache/logging/log4j/util/Supplier
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:08,167  INFO - 	Matching class bytecode. : No class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:08,167  INFO - 	Matching class bytecode. : No class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:18,559  INFO - Including system class [sun/nio/ch/ServerSocketChannelImpl [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:18,560  INFO - Including system class [java/util/concurrent/ThreadPoolExecutor$Worker [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:18,562  INFO - Including system class [java/net/ServerSocket [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:18,572  INFO - Including system class [java/util/logging/Logger [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:18,595  INFO - Including system class [java/net/Socket [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:18,598  INFO - Including system class [java/util/concurrent/Executors$RunnableAdapter [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:23,634  INFO - Including system class [java/lang/ApplicationShutdownHooks [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:23,644  INFO - Including system class [java/util/Hashtable [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:23,656  INFO - Including system class [System Exclude Definition-SM{ex_type=EQUALS, ex_pattern='java/util/concurrent/Executors$RunnableAdapter', type=EQUALS, pattern='java/util/concurrent/Executors$RunnableAdapter'}]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:23,670  INFO - Including system class [javax/servlet/http/Cookie [ClassLoader]org.springframework.boot.loader.LaunchedURLClassLoader[hashcode]1165897474]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:23,690  INFO - Including system class [javax/servlet/http/HttpServlet [ClassLoader]org.springframework.boot.loader.LaunchedURLClassLoader[hashcode]1165897474]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:23,757  INFO - Including system class [javax/xml/parsers/DocumentBuilder [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:23,767  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/PlainOldClass [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:23,767  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/ImplementingInterface [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:23,767  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/IBCIEngineIntf [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:23,767  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/ExtendingSuperClass [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:23,767  INFO - Including system class [com/singularity/ee/agent/appagent/services/bciengine/init/ASuperClass [ClassLoader]com.singularity.ee.agent.appagent.kernel.classloader.d[hashcode]706277948]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,301  INFO - Including system class [sun/nio/ch/ServerSocketChannelImpl [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,301  INFO - Including system class [java/util/concurrent/ThreadPoolExecutor$Worker [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,301  INFO - Including system class [java/net/ServerSocket [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,306  INFO - Including system class [java/util/logging/Logger [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,308  INFO - Including system class [java/net/Socket [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,309  INFO - Including system class [java/util/concurrent/Executors$RunnableAdapter [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,310  INFO - Including system class [java/lang/ApplicationShutdownHooks [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,311  INFO - Including system class [java/util/Hashtable [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,325  INFO - Matching class name org/apache/logging/log4j/spi/AbstractLogger [ClassLoader]org.springframework.boot.loader.LaunchedURLClassLoader[hashcode]1165897474 : Class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,327  INFO - 	Matching runtime class. : Class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,327  INFO - Matching class name org/apache/logging/log4j/spi/AbstractLogger
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,330  INFO - 	Matching class bytecode. : Class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,334  INFO - 	Matching method narrow ((Lorg/apache/logging/log4j/message/MessageFactory;)Lorg/apache/logging/log4j/message/MessageFactory2;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,337  INFO - 	Matching method enter ((Ljava/lang/String;Lorg/apache/logging/log4j/message/Message;)Lorg/apache/logging/log4j/message/EntryMessage;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,339  INFO - 	Matching method enter ((Ljava/lang/String;Ljava/lang/String;[Ljava/lang/Object;)Lorg/apache/logging/log4j/message/EntryMessage;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,339  INFO - 	Matching method enter ((Ljava/lang/String;Lorg/apache/logging/log4j/util/MessageSupplier;)Lorg/apache/logging/log4j/message/EntryMessage;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,340  INFO - 	Matching method enter ((Ljava/lang/String;Ljava/lang/String;[Lorg/apache/logging/log4j/util/Supplier;)Lorg/apache/logging/log4j/message/EntryMessage;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,340  INFO - 	Matching method enter ((Ljava/lang/String;Ljava/lang/String;[Lorg/apache/logging/log4j/util/MessageSupplier;)Lorg/apache/logging/log4j/message/EntryMessage;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,341  INFO - 	Matching method logMessageSafely ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,342  INFO - 	Matching method logMessageTrackRecursion ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,343  INFO - 	Matching method getRecursionDepthHolder (()[I)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,344  INFO - 	Matching method incrementRecursionDepth (()V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,345  INFO - 	Matching method decrementRecursionDepth (()V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,348  INFO - 	Matching method getRecursionDepth (()I)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,349  INFO - 	Matching method tryLogMessage ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,350  INFO - 	Matching method handleLogMessageException ((Ljava/lang/Exception;Ljava/lang/String;Lorg/apache/logging/log4j/message/Message;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,367  INFO - 	Matching method createClassForProperty ((Ljava/lang/String;Ljava/lang/Class;Ljava/lang/Class;)Ljava/lang/Class;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,368  INFO - 	Matching method createFlowClassForProperty ((Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/Class;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,369  INFO - 	Matching method createDefaultFlowMessageFactory (()Lorg/apache/logging/log4j/message/FlowMessageFactory;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,371  INFO - 	Matching method logMessage ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,382  INFO - 	Matching method logMessage ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,383  INFO - 	Matching method logMessage ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,384  INFO - 	Matching method logMessage ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,385  INFO - 	Matching method logMessage ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,385  INFO - 	Matching method logMessage ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/Supplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,385  INFO - 	Matching method logMessage ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/MessageSupplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,386  INFO - 	Matching method logMessage ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,387  INFO - 	Matching method logMessage ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/CharSequence;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,387  INFO - 	Matching method logMessage ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,387  INFO - 	Matching method logMessage ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,388  INFO - 	Matching method logMessage ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,389  INFO - 	Matching method logMessage ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,390  INFO - 	Matching method logMessage ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;[Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,390  INFO - 	Matching method logMessage ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,390  INFO - 	Matching method logMessage ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;[Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,390  INFO - 	Matching method logMessage ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,391  INFO - 	Matching method logMessage ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,392  INFO - 	Matching method throwing ((Lorg/apache/logging/log4j/Level;Ljava/lang/Throwable;)Ljava/lang/Throwable;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,392  INFO - 	Matching method throwing ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Ljava/lang/Throwable;)Ljava/lang/Throwable;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,392  INFO - 	Matching method throwing ((Ljava/lang/Throwable;)Ljava/lang/Throwable;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,393  INFO - 	Matching method checkMessageFactory ((Lorg/apache/logging/log4j/spi/ExtendedLogger;Lorg/apache/logging/log4j/message/MessageFactory;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,393  INFO - 	Matching method catchingMsg ((Ljava/lang/Throwable;)Lorg/apache/logging/log4j/message/Message;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,394  INFO - 	Matching method createDefaultMessageFactory (()Lorg/apache/logging/log4j/message/MessageFactory2;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,395  INFO - 	Matching method isFatalEnabled (()Z)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,397  INFO - 	Matching method isFatalEnabled ((Lorg/apache/logging/log4j/Marker;)Z)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,400  INFO - 	Matching method isEnabled ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;)Z)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,402  INFO - 	Matching method isEnabled ((Lorg/apache/logging/log4j/Level;)Z)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,413  INFO - 	Matching method isWarnEnabled ((Lorg/apache/logging/log4j/Marker;)Z)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,415  INFO - 	Matching method isWarnEnabled (()Z)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,416  INFO - 	Matching method isErrorEnabled (()Z)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,417  INFO - 	Matching method isErrorEnabled ((Lorg/apache/logging/log4j/Marker;)Z)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,417  INFO - 	Matching method getMessageFactory (()Lorg/apache/logging/log4j/message/MessageFactory;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,417  INFO - 	Matching method entryMsg ((Ljava/lang/String;[Ljava/lang/Object;)Lorg/apache/logging/log4j/message/EntryMessage;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,419  INFO - 	Matching method entryMsg ((Ljava/lang/String;[Lorg/apache/logging/log4j/util/MessageSupplier;)Lorg/apache/logging/log4j/message/EntryMessage;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,420  INFO - 	Matching method entryMsg ((Ljava/lang/String;[Lorg/apache/logging/log4j/util/Supplier;)Lorg/apache/logging/log4j/message/EntryMessage;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,421  INFO - 	Matching method exitMsg ((Ljava/lang/String;Ljava/lang/Object;)Lorg/apache/logging/log4j/message/Message;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,422  INFO - 	Matching method logIfEnabled ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,422  INFO - 	Matching method logIfEnabled ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,423  INFO - 	Matching method logIfEnabled ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;[Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,424  INFO - 	Matching method logIfEnabled ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,425  INFO - 	Matching method logIfEnabled ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,425  INFO - 	Matching method logIfEnabled ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;[Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,426  INFO - 	Matching method logIfEnabled ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,427  INFO - 	Matching method logIfEnabled ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,435  INFO - 	Matching method logIfEnabled ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,435  INFO - 	Matching method logIfEnabled ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,436  INFO - 	Matching method logIfEnabled ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,437  INFO - 	Matching method logIfEnabled ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,437  INFO - 	Matching method logIfEnabled ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,438  INFO - 	Matching method logIfEnabled ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/CharSequence;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,438  INFO - 	Matching method logIfEnabled ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,439  INFO - 	Matching method logIfEnabled ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/MessageSupplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,440  INFO - 	Matching method logIfEnabled ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/Supplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,441  INFO - 	Matching method logIfEnabled ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,442  INFO - 	Matching method logIfEnabled ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,443  INFO - 	Matching method throwingMsg ((Ljava/lang/Throwable;)Lorg/apache/logging/log4j/message/Message;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,443  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,444  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,445  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,446  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,447  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,447  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/util/MessageSupplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,447  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/util/MessageSupplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,448  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,450  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,451  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,451  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,452  INFO - 	Matching method warn ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,452  INFO - 	Matching method warn ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,453  INFO - 	Matching method warn ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,454  INFO - 	Matching method warn ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,454  INFO - 	Matching method warn ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,455  INFO - 	Matching method warn ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,456  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,458  INFO - 	Matching method warn ((Ljava/lang/String;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,459  INFO - 	Matching method warn ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,459  INFO - 	Matching method warn ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,459  INFO - 	Matching method warn ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,460  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/message/Message;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,461  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,462  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;[Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,462  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,463  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,464  INFO - 	Matching method warn ((Ljava/lang/CharSequence;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,464  INFO - 	Matching method warn ((Ljava/lang/CharSequence;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,466  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,467  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,468  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Ljava/lang/CharSequence;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,469  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Ljava/lang/CharSequence;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,469  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,469  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,470  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/Supplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,470  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;[Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,471  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,471  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/util/Supplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,472  INFO - 	Matching method warn ((Ljava/lang/String;[Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,475  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/MessageSupplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,475  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/MessageSupplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,476  INFO - 	Matching method warn ((Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,476  INFO - 	Matching method warn ((Ljava/lang/Object;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,478  INFO - 	Matching method warn ((Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,478  INFO - 	Matching method warn ((Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,479  INFO - 	Matching method warn ((Ljava/lang/String;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,480  INFO - 	Matching method warn ((Ljava/lang/String;[Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,480  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,482  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,483  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,484  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,485  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,485  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,486  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,487  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/Supplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,487  INFO - 	Matching method fatal ((Ljava/lang/String;[Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,488  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/MessageSupplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,488  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/MessageSupplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,489  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/util/MessageSupplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,489  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/util/MessageSupplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,489  INFO - 	Matching method fatal ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,489  INFO - 	Matching method fatal ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,489  INFO - 	Matching method fatal ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,489  INFO - 	Matching method fatal ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,489  INFO - 	Matching method fatal ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,489  INFO - 	Matching method fatal ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,489  INFO - 	Matching method fatal ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,489  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,490  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,490  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,490  INFO - 	Matching method fatal ((Ljava/lang/String;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,490  INFO - 	Matching method fatal ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,490  INFO - 	Matching method fatal ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,490  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,491  INFO - 		Applying method interceptor logger.Log4j2-Exception at org/apache/logging/log4j/spi/AbstractLogger.fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;Ljava/lang/Throwable;)V) id:84
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,498  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,499  INFO - 		Applying method interceptor logger.Log4j2-Message at org/apache/logging/log4j/spi/AbstractLogger.fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;)V) id:85
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,504  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;[Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,506  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,507  INFO - 		Applying method interceptor logger.Log4j2-Exception at org/apache/logging/log4j/spi/AbstractLogger.fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Throwable;)V) id:86
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,508  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/message/Message;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,508  INFO - 		Applying method interceptor logger.Log4j2-Message at org/apache/logging/log4j/spi/AbstractLogger.fatal ((Lorg/apache/logging/log4j/message/Message;)V) id:87
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,509  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,510  INFO - 		Applying method interceptor logger.Log4j2-Exception at org/apache/logging/log4j/spi/AbstractLogger.fatal ((Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V) id:88
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,511  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,512  INFO - 		Applying method interceptor logger.Log4j2-Message at org/apache/logging/log4j/spi/AbstractLogger.fatal ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;)V) id:89
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,517  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,517  INFO - 		Applying method interceptor logger.Log4j2-Exception at org/apache/logging/log4j/spi/AbstractLogger.fatal ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V) id:90
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,518  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/CharSequence;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,518  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/CharSequence;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,518  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,518  INFO - 		Applying method interceptor logger.Log4j2-Message at org/apache/logging/log4j/spi/AbstractLogger.fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;)V) id:91
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,522  INFO - 	Matching method fatal ((Ljava/lang/String;[Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,522  INFO - 	Matching method fatal ((Ljava/lang/String;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,522  INFO - 		Applying method interceptor logger.Log4j2-Exception at org/apache/logging/log4j/spi/AbstractLogger.fatal ((Ljava/lang/String;Ljava/lang/Throwable;)V) id:92
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,523  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,523  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/util/Supplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,523  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,523  INFO - 	Matching method fatal ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;[Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,523  INFO - 	Matching method fatal ((Ljava/lang/CharSequence;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,523  INFO - 	Matching method fatal ((Ljava/lang/CharSequence;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,523  INFO - 	Matching method fatal ((Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,524  INFO - 		Applying method interceptor logger.Log4j2-Message at org/apache/logging/log4j/spi/AbstractLogger.fatal ((Ljava/lang/Object;)V) id:93
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,529  INFO - 	Matching method fatal ((Ljava/lang/Object;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,529  INFO - 		Applying method interceptor logger.Log4j2-Exception at org/apache/logging/log4j/spi/AbstractLogger.fatal ((Ljava/lang/Object;Ljava/lang/Throwable;)V) id:94
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,530  INFO - 	Matching method fatal ((Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,530  INFO - 		Applying method interceptor logger.Log4j2-Message at org/apache/logging/log4j/spi/AbstractLogger.fatal ((Ljava/lang/String;)V) id:95
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,530  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,530  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,530  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,530  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,533  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,533  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,533  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,533  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/MessageSupplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,533  INFO - 	Matching method info ((Ljava/lang/String;[Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,534  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/Supplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,534  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;[Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,534  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/MessageSupplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,534  INFO - 	Matching method info ((Lorg/apache/logging/log4j/util/MessageSupplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,534  INFO - 	Matching method info ((Lorg/apache/logging/log4j/util/MessageSupplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,534  INFO - 	Matching method info ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,534  INFO - 	Matching method info ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,534  INFO - 	Matching method info ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,534  INFO - 	Matching method info ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,534  INFO - 	Matching method info ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,534  INFO - 	Matching method info ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,534  INFO - 	Matching method info ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,535  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,536  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,536  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,536  INFO - 	Matching method info ((Ljava/lang/String;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,536  INFO - 	Matching method info ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,536  INFO - 	Matching method info ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,536  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,536  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,536  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;[Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,537  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,537  INFO - 	Matching method info ((Lorg/apache/logging/log4j/message/Message;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,537  INFO - 	Matching method info ((Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,537  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,537  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,537  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Ljava/lang/CharSequence;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,538  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Ljava/lang/CharSequence;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,538  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,538  INFO - 	Matching method info ((Ljava/lang/String;[Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,538  INFO - 	Matching method info ((Ljava/lang/String;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,538  INFO - 	Matching method info ((Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,538  INFO - 	Matching method info ((Lorg/apache/logging/log4j/util/Supplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,538  INFO - 	Matching method info ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,538  INFO - 	Matching method info ((Ljava/lang/CharSequence;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,538  INFO - 	Matching method info ((Ljava/lang/CharSequence;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,538  INFO - 	Matching method info ((Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,538  INFO - 	Matching method info ((Ljava/lang/Object;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,538  INFO - 	Matching method info ((Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,538  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,538  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,538  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,538  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,539  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,539  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,539  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,539  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/MessageSupplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,539  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/MessageSupplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,539  INFO - 	Matching method trace ((Ljava/lang/String;[Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,539  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/Supplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,539  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/util/MessageSupplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,539  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/util/MessageSupplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,539  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,539  INFO - 	Matching method trace ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,539  INFO - 	Matching method trace ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,539  INFO - 	Matching method trace ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,540  INFO - 	Matching method trace ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,540  INFO - 	Matching method trace ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,540  INFO - 	Matching method trace ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,540  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Ljava/lang/CharSequence;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,540  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,540  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,540  INFO - 	Matching method trace ((Ljava/lang/String;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,540  INFO - 	Matching method trace ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,541  INFO - 	Matching method trace ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,541  INFO - 	Matching method trace ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,541  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,541  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;[Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,541  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,541  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/message/Message;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,541  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,541  INFO - 	Matching method trace ((Ljava/lang/CharSequence;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,541  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,541  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,541  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Ljava/lang/CharSequence;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,542  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,542  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,542  INFO - 	Matching method trace ((Ljava/lang/String;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,542  INFO - 	Matching method trace ((Ljava/lang/String;[Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,543  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;[Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,543  INFO - 	Matching method trace ((Ljava/lang/Object;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,543  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,544  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/util/Supplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,544  INFO - 	Matching method trace ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,544  INFO - 	Matching method trace ((Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,545  INFO - 	Matching method trace ((Ljava/lang/CharSequence;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,545  INFO - 	Matching method trace ((Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,545  INFO - 	Matching method isDebugEnabled ((Lorg/apache/logging/log4j/Marker;)Z)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,545  INFO - 	Matching method isDebugEnabled (()Z)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,545  INFO - 	Matching method isInfoEnabled (()Z)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,545  INFO - 	Matching method isInfoEnabled ((Lorg/apache/logging/log4j/Marker;)Z)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,546  INFO - 	Matching method isTraceEnabled (()Z)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,546  INFO - 	Matching method isTraceEnabled ((Lorg/apache/logging/log4j/Marker;)Z)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,546  INFO - 	Matching method catching ((Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,546  INFO - 	Matching method catching ((Ljava/lang/String;Lorg/apache/logging/log4j/Level;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,546  INFO - 	Matching method catching ((Lorg/apache/logging/log4j/Level;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,546  INFO - 	Matching method traceEntry (()Lorg/apache/logging/log4j/message/EntryMessage;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,546  INFO - 	Matching method traceEntry ((Ljava/lang/String;[Lorg/apache/logging/log4j/util/Supplier;)Lorg/apache/logging/log4j/message/EntryMessage;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,547  INFO - 	Matching method traceEntry ((Lorg/apache/logging/log4j/message/Message;)Lorg/apache/logging/log4j/message/EntryMessage;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,548  INFO - 	Matching method traceEntry ((Ljava/lang/String;[Ljava/lang/Object;)Lorg/apache/logging/log4j/message/EntryMessage;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,549  INFO - 	Matching method traceEntry (([Lorg/apache/logging/log4j/util/Supplier;)Lorg/apache/logging/log4j/message/EntryMessage;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,550  INFO - 	Matching method traceExit ((Lorg/apache/logging/log4j/message/Message;Ljava/lang/Object;)Ljava/lang/Object;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,551  INFO - 	Matching method traceExit ((Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,551  INFO - 	Matching method traceExit (()V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,552  INFO - 	Matching method traceExit ((Ljava/lang/Object;)Ljava/lang/Object;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,552  INFO - 	Matching method traceExit ((Lorg/apache/logging/log4j/message/EntryMessage;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,553  INFO - 	Matching method traceExit ((Lorg/apache/logging/log4j/message/EntryMessage;Ljava/lang/Object;)Ljava/lang/Object;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,554  INFO - 	Matching method <init> ((Ljava/lang/String;Lorg/apache/logging/log4j/message/MessageFactory;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,555  INFO - 	Matching method <init> ((Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,557  INFO - 	Matching method <init> (()V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,557  INFO - 	Matching method exit ((Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,558  INFO - 	Matching method exit ((Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,558  INFO - 	Matching method exit ((Ljava/lang/Object;)Ljava/lang/Object;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,559  INFO - 	Matching method exit (()V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,559  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,559  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Ljava/lang/CharSequence;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,559  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Ljava/lang/Object;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,560  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Ljava/lang/CharSequence;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,560  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,560  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/message/Message;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,566  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/util/Supplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,566  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,566  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Ljava/lang/String;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,573  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Ljava/lang/String;[Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,575  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,575  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/CharSequence;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,587  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/CharSequence;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,588  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,588  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,588  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,588  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,589  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;[Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,589  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,589  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,590  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,591  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,592  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,592  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Ljava/lang/String;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,592  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,593  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,594  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,594  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,594  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,595  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,595  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,596  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,596  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,599  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,602  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,602  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,603  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Ljava/lang/String;[Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,603  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/MessageSupplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,603  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/MessageSupplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,603  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/util/MessageSupplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,603  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/Supplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,603  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;[Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,604  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,604  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,604  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/util/MessageSupplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,604  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,605  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,605  INFO - 	Matching method log ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,605  INFO - 	Matching method getName (()Ljava/lang/String;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,606  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,606  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,606  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,606  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,607  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,607  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,608  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,608  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/Supplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,608  INFO - 	Matching method debug ((Ljava/lang/String;[Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,609  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/MessageSupplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,609  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/MessageSupplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,609  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/util/MessageSupplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,609  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/util/MessageSupplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,609  INFO - 	Matching method debug ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,609  INFO - 	Matching method debug ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,610  INFO - 	Matching method debug ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,610  INFO - 	Matching method debug ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,610  INFO - 	Matching method debug ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,610  INFO - 	Matching method debug ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,610  INFO - 	Matching method debug ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,610  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,611  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,611  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,611  INFO - 	Matching method debug ((Ljava/lang/String;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,611  INFO - 	Matching method debug ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,611  INFO - 	Matching method debug ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,611  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,612  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,612  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;[Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,612  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,612  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/message/Message;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,613  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,613  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Ljava/lang/CharSequence;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,613  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Ljava/lang/CharSequence;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,613  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,613  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,613  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,613  INFO - 	Matching method debug ((Ljava/lang/String;[Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,614  INFO - 	Matching method debug ((Ljava/lang/String;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,614  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,614  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/util/Supplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,614  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,614  INFO - 	Matching method debug ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;[Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,614  INFO - 	Matching method debug ((Ljava/lang/CharSequence;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,614  INFO - 	Matching method debug ((Ljava/lang/CharSequence;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,614  INFO - 	Matching method debug ((Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,615  INFO - 	Matching method debug ((Ljava/lang/Object;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,615  INFO - 	Matching method debug ((Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,615  INFO - 	Matching method entry (()V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,615  INFO - 	Matching method entry (([Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,615  INFO - 	Matching method entry ((Ljava/lang/String;[Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,615  INFO - 	Matching method printf ((Lorg/apache/logging/log4j/Level;Ljava/lang/String;[Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,616  INFO - 	Matching method printf ((Lorg/apache/logging/log4j/Level;Lorg/apache/logging/log4j/Marker;Ljava/lang/String;[Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,616  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/MessageSupplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,616  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,616  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,616  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,617  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,617  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,617  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,617  INFO - 	Matching method error ((Ljava/lang/String;[Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,617  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/MessageSupplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,617  INFO - 	Matching method error ((Lorg/apache/logging/log4j/util/MessageSupplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,617  INFO - 	Matching method error ((Lorg/apache/logging/log4j/util/MessageSupplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,618  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,618  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,618  INFO - 	Matching method error ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,618  INFO - 	Matching method error ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,619  INFO - 	Matching method error ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,619  INFO - 	Matching method error ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,619  INFO - 	Matching method error ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,620  INFO - 	Matching method error ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,620  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,620  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,620  INFO - 	Matching method error ((Ljava/lang/String;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,620  INFO - 	Matching method error ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,620  INFO - 	Matching method error ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,620  INFO - 	Matching method error ((Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,620  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,621  INFO - 		Applying method interceptor logger.Log4j2-Message at org/apache/logging/log4j/spi/AbstractLogger.error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;)V) id:96
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,623  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;[Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,624  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,624  INFO - 		Applying method interceptor logger.Log4j2-Exception at org/apache/logging/log4j/spi/AbstractLogger.error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Throwable;)V) id:97
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,625  INFO - 	Matching method error ((Lorg/apache/logging/log4j/message/Message;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,625  INFO - 		Applying method interceptor logger.Log4j2-Message at org/apache/logging/log4j/spi/AbstractLogger.error ((Lorg/apache/logging/log4j/message/Message;)V) id:98
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,625  INFO - 	Matching method error ((Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,625  INFO - 		Applying method interceptor logger.Log4j2-Exception at org/apache/logging/log4j/spi/AbstractLogger.error ((Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V) id:99
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,626  INFO - 	Matching method error ((Ljava/lang/CharSequence;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,626  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,630  INFO - 		Applying method interceptor logger.Log4j2-Message at org/apache/logging/log4j/spi/AbstractLogger.error ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;)V) id:100
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,630  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,630  INFO - 		Applying method interceptor logger.Log4j2-Exception at org/apache/logging/log4j/spi/AbstractLogger.error ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V) id:101
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,631  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/CharSequence;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,631  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/CharSequence;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,631  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,631  INFO - 		Applying method interceptor logger.Log4j2-Message at org/apache/logging/log4j/spi/AbstractLogger.error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;)V) id:102
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,632  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,632  INFO - 		Applying method interceptor logger.Log4j2-Exception at org/apache/logging/log4j/spi/AbstractLogger.error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;Ljava/lang/Throwable;)V) id:103
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,632  INFO - 	Matching method error ((Ljava/lang/String;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,633  INFO - 		Applying method interceptor logger.Log4j2-Exception at org/apache/logging/log4j/spi/AbstractLogger.error ((Ljava/lang/String;Ljava/lang/Throwable;)V) id:104
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,633  INFO - 	Matching method error ((Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,633  INFO - 	Matching method error ((Lorg/apache/logging/log4j/util/Supplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,633  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,633  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Ljava/lang/String;[Lorg/apache/logging/log4j/util/Supplier;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,633  INFO - 	Matching method error ((Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/util/Supplier;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,633  INFO - 	Matching method error ((Ljava/lang/CharSequence;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,633  INFO - 	Matching method error ((Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,633  INFO - 		Applying method interceptor logger.Log4j2-Message at org/apache/logging/log4j/spi/AbstractLogger.error ((Ljava/lang/Object;)V) id:105
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,633  INFO - 	Matching method error ((Ljava/lang/Object;Ljava/lang/Throwable;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,633  INFO - 		Applying method interceptor logger.Log4j2-Exception at org/apache/logging/log4j/spi/AbstractLogger.error ((Ljava/lang/Object;Ljava/lang/Throwable;)V) id:106
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,633  INFO - 	Matching method error ((Ljava/lang/String;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,634  INFO - 		Applying method interceptor logger.Log4j2-Message at org/apache/logging/log4j/spi/AbstractLogger.error ((Ljava/lang/String;)V) id:107
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,635  INFO - 	Matching method error ((Ljava/lang/String;[Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,645  INFO - Method fatal with signature (Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;Ljava/lang/Throwable;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,646  INFO - Method fatal with signature (Lorg/apache/logging/log4j/Marker;Ljava/lang/String;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,647  INFO - Method fatal with signature (Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Throwable;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,660  INFO - Method fatal with signature (Lorg/apache/logging/log4j/message/Message;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,661  INFO - Method fatal with signature (Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,661  INFO - Method fatal with signature (Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,662  INFO - Method fatal with signature (Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,663  INFO - Method fatal with signature (Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,664  INFO - Method fatal with signature (Ljava/lang/String;Ljava/lang/Throwable;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,664  INFO - Method fatal with signature (Ljava/lang/Object;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,665  INFO - Method fatal with signature (Ljava/lang/Object;Ljava/lang/Throwable;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,665  INFO - Method fatal with signature (Ljava/lang/String;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,672  INFO - Method error with signature (Lorg/apache/logging/log4j/Marker;Ljava/lang/String;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,673  INFO - Method error with signature (Lorg/apache/logging/log4j/Marker;Ljava/lang/String;Ljava/lang/Throwable;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,674  INFO - Method error with signature (Lorg/apache/logging/log4j/message/Message;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,675  INFO - Method error with signature (Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,675  INFO - Method error with signature (Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,675  INFO - Method error with signature (Lorg/apache/logging/log4j/Marker;Lorg/apache/logging/log4j/message/Message;Ljava/lang/Throwable;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,676  INFO - Method error with signature (Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,676  INFO - Method error with signature (Lorg/apache/logging/log4j/Marker;Ljava/lang/Object;Ljava/lang/Throwable;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,679  INFO - Method error with signature (Ljava/lang/String;Ljava/lang/Throwable;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,680  INFO - Method error with signature (Ljava/lang/Object;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,680  INFO - Method error with signature (Ljava/lang/Object;Ljava/lang/Throwable;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,681  INFO - Method error with signature (Ljava/lang/String;)V in class org/apache/logging/log4j/spi/AbstractLogger has been successfully verified
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,704  INFO - Including system class [java/util/concurrent/Executors$RunnableAdapter [ClassLoader: Bootstrap]]
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,704  INFO - Matching class name java/util/concurrent/Executors$RunnableAdapter [ClassLoader: Bootstrap] : Class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,704  INFO - 	Matching runtime class. : Class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,704  INFO - Matching class name java/util/concurrent/Executors$RunnableAdapter
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,705  INFO - 	Matching class bytecode. : Class match found.
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,705  INFO - 	Matching method call (()Ljava/lang/Object;)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,705  INFO - 		Applying method interceptor entry.webservice.org.glassfish.jersey.JaxRsCallableConsumerInterceptor at java/util/concurrent/Executors$RunnableAdapter.call (()Ljava/lang/Object;) id:108
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,705  INFO - 	Matching method <init> ((Ljava/lang/Runnable;Ljava/lang/Object;)V)
+[AD Thread Pool-Global0] 28 Apr 2019 07:13:24,710  INFO - Method call with signature ()Ljava/lang/Object; in class java/util/concurrent/Executors$RunnableAdapter has been successfully verified
+[SIGINT handler] 28 Apr 2019 07:15:06,913  WARN - Class File Transformer disabled, no classes will be instrumented
